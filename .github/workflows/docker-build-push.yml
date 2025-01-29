@@ -24,6 +24,7 @@ jobs:
           - auditor
           - auditor-apel-plugin
           - auditor-kubernetes-collector
+          - auditor-htcondor-collector
 
     steps:
       - name: Checkout repository
